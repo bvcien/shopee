@@ -1,9 +1,9 @@
 # Đây là project html Shopee
 ## Header 2
-### Header #
- > test nheeeee
+### Header 3
+ > Đây chỉ là project html cơ bản khi bắt đầu học
 
-hello 
+Hello
 ```
 Bùi Văn Chiến
 19/10/2003
